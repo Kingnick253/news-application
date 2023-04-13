@@ -1,0 +1,12 @@
+body {
+    background-image: linear-gradient(to right, #a96f44, #f2ecb6 );
+}
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Tilt+Prism&display=swap');
+h1 {
+    font-family: "Tilt Prism", sans-serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 150px;
+}
+
